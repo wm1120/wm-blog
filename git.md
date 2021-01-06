@@ -1,4 +1,4 @@
-# wm-blog
-杂七杂八的eeeee记录
+# git-命令指南
+仓库 、 工作流、 分支、 提交 相关命令
 ## wwwww
 sdadsaf
